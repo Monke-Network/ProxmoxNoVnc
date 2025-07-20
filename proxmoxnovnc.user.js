@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         noVNC Paste for Proxmox
+// @name         noVNC Paste for Proxmox 4 monke
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Read & Paste the whole clipboard , count chars , with enhanced visual feedback
