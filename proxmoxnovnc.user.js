@@ -3,9 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Read & Paste the whole clipboard , count chars , with enhanced visual feedback
-// @author       Wolfyrion
+// @author       Wolfyrion % Forked by olli2984
 // @match        https://*/:8006/*
+// @match        https://p*.wellermann.org/*
 // @include      /^https?:\/\/.*:8006\/.*novnc.*/
+// @include      /^https:\/\/p.*\.wellermann\.org\/.*novnc.*/
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @grant        GM_notification
 // @grant        GM_setValue
